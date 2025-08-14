@@ -11,9 +11,10 @@ An AI-powered fake news detection service that analyzes articles for credibility
 🚀 Quick Start
 - CodeWords Workflow: https://codewords.agemo.ai/run/fake_news_detector_26fdfe66
 - Full Webapp: https://v0-fake-news-detector-three.vercel.app/
+
 📋 How It Works
-Content Extraction - Uses Firecrawl to extract clean article content from any URL
-AI Classification - Gemini 2.5 Pro analyzes content type and extracts verifiable factual claims
-Smart Routing - Opinion pieces are flagged appropriately; news articles proceed to fact-checking
-Multi-Source Verification - Claims are cross-referenced against trusted fact-checking sources
-Comprehensive Report - Generates detailed credibility assessment with evidence and reasoning
+- Content Extraction - Uses Firecrawl to extract clean article content from any URL
+- AI Classification - Gemini 2.5 Pro analyzes content type and extracts verifiable factual claims
+- Smart Routing - Opinion pieces are flagged appropriately; news articles proceed to fact-checking
+- Multi-Source Verification - Claims are cross-referenced against trusted fact-checking sources
+- Comprehensive Report - Generates detailed credibility assessment with evidence and reasoning
